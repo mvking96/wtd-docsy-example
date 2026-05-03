@@ -1,4 +1,4 @@
-##Document Example
+# Document Example
 
 I will be using this section to write guides for operating and maintaining 
 products. Docsy recommends adding content under headings for larger doc sets.
